@@ -413,12 +413,3 @@ Through this project, I strengthened my skills in:
 - Git & GitHub Version Control
 
 One of the most valuable lessons from this project was understanding how businesses track and convert potential customers using CRM systems and how technology can streamline these processes efficiently.
-
-### Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-allambharathsai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allambharathsai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Allam%20Bharath%20Sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allambharathsai/)
-
----
-
-© 2026 ALLAM BHARATH SAI. All Rights Reserved.
